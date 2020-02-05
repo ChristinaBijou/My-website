@@ -34,7 +34,7 @@ education:
     institution: The Ohio State University
     year: 2019
   - course: B.A. in Sociology
-    institution: The Ohio State University
+    institution: University of Maryland, College Park
     year: 2017
 
 # Social/Academic Networking
