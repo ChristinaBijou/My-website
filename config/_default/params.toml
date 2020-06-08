@@ -1,3 +1,4 @@
+
 # SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
 
@@ -264,5 +265,5 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "UA-157804793-1"
   google_tag_manager = ""
