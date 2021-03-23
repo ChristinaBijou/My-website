@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,11 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Disparities in Health
+- Health Disparities
 - Racial/ethnic Inequality
 - Criminology and Health
+- Health Policy
+- Mental Health
 
 education:
   courses:
@@ -70,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-Christina Bijou is a Ph.D. candidate at [The Ohio State University](https://sociology.osu.edu/people/bijou.1). Her  research interests include racial/ethnic disparities in health, urban/rural disparities in health and criminology. 
+Christina Bijou is a Ph.D. Candidate at [The Ohio State University](https://sociology.osu.edu/people/bijou.1). Her  research interests include racial/ethnic health disparities, urban/rural disparities in health, health policy, and criminology. 
 
 She is advised by [Cynthia Colen](https://sociology.osu.edu/people/colen.3) and [Reanne Frank](https://sociology.osu.edu/people/frank.219) and is part of the [Ohio Policy Evaluation Network (OPEN)](https://u.osu.edu/open/).
 
