@@ -16,13 +16,7 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 email_form = 2
+	id: https://formspree.io/f/bijou.1@osu.edu
 
-  form:
-    provider: formspree
-    formspree:
-      id: https://formspree.io/f/bijou.1@osu.edu
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
 +++
 
