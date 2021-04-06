@@ -17,23 +17,5 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 
-<form
-  action="https://formspree.io/f/bijou.1@osu.edu"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
-</form>
-
 +++
 
